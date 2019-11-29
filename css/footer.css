@@ -1,0 +1,41 @@
+	footer{
+
+	background: white;
+	height: auto;
+	text-align: center;
+}
+
+.contenedorRedes{
+	
+
+	margin-top: 40px;
+
+}
+
+.contenedorRedes a {
+	
+	padding: 10px 0; /*15 px arriba y abajo 0 a los lados*/
+	font-size: 30px;
+	margin: 0 40px;
+
+}
+
+.colorFacebook{	color: #0B243B;}
+.colorTwitter{color:#2daae2;}
+.colorYoutube{color:#ff0000;}
+.colorInstagram{color:#d93140;}
+
+.colorFacebook:hover{color: #314370;}
+.colorTwitter:hover{color:#207296;}
+.colorYoutube:hover{color:#930000;}
+.colorInstagram:hover{color:#721c24;}
+
+.autorFooter{
+	
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+
+.spanAutor{
+	color: #1784bc;
+}

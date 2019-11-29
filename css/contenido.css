@@ -1,0 +1,53 @@
+.post-title.entry-title {
+    		color: #0D3A59;
+    		text-align: center;
+    		transition-duration: 0s;
+    		text-transform: uppercase;
+    		margin-bottom: 10px;
+    		font: normal normal 22px Oswald;
+    	}
+
+        span.post-timestamp {
+    	display: inline-block;
+    	color: #333;
+    	overflow: hidden;
+    	text-transform: uppercase;
+    	padding: 10px 41px 0;
+    	position: relative;
+    	font: normal normal 16px Oswald;
+    	border-top: 1px solid #333;	 
+    	  font: normal normal 14px Helvetica;
+    background: #fff url(https://1.bp.blogspot.com/-ZF5rxhufGGY/XdOdWXgF0UI/AAAAAAAA89c/bmd26gb2uAQaXn8w8zDF7V6p_r9gtzl0wCLcBGAsYHQ/s1600/FONDO%2Biglesia.png) top repeat;
+    overflow-x: hidden;  
+    line-height: 1;
+
+    }
+
+   .post-timestamp {
+   	margin-left: 0 !important;
+   	}
+   	.post-timestamp {
+    margin-left: -1em;
+}
+.post-header {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.post-header, .post-footer {
+    line-height: 1.6;
+}
+.widget {
+    line-height: 1.4;
+}
+ 
+ body {
+    font: normal normal 14px Helvetica;
+    background: #fff url(https://1.bp.blogspot.com/-ZF5rxhufGGY/XdOdWXgF0UI/AAAAAAAA89c/bmd26gb2uAQaXn8w8zDF7V6p_r9gtzl0wCLcBGAsYHQ/s1600/FONDO%2Biglesia.png) top repeat;
+    overflow-x: hidden;
+    line-height: 1;
+
+    overflow-wrap: break-word;
+    word-break: break-word;
+    word-wrap: break-word;
+}

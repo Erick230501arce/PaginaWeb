@@ -1,0 +1,67 @@
+.searchbox__title {
+        font-size: 2px;
+        line-height: 32px;
+        font-weight: 600;
+        background-image: url('https://r-cf.bstatic.com/xdata/images/city/1680x560/682650.webp?k=16cfe6af2a92849ef38e8c469970c55be9184a7db51c1561b040366ecf693a10&amp;o=');
+        }
+    .sb-searchbox__title {
+        margin: 0;
+    padding: 0;
+    font-size: 26px;
+    font-weight: normal;
+    background-image: url("https://r-cf.bstatic.com/xdata/images/city/1680x560/682650.webp?k=16cfe6af2a92849ef38e8c469970c55be9184a7db51c1561b040366ecf693a10&amp");
+}
+.sb-searchbox__title {
+    margin: 0;
+    padding: 0;
+    font-size: 26px;
+    font-weight: normal;
+}
+h1 {
+    margin: 0;
+    font-size: 140%;
+    font-weight: bold;
+    color: #fff;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.sb-searchbox__subtitle-text {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://r-cf.bstatic.com/xdata/images/city/1680x560/682650.webp?k=16cfe6af2a92849ef38e8c469970c55be9184a7db51c1561b040366ecf693a10&amp;o=');
+}
+.sb-searchbox__subtitle-text {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+}
+.sb-searchbox__subtitle-text {
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    margin: 0 0 .5em .5em;
+    padding-top: 1.5em;
+    font-size: 120%;
+    font-weight: bold;
+    color: #fff;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
